@@ -23,24 +23,26 @@ Code Ocean's mission is to make computational research a connected community tha
 
 Times            | Day 1 |
 -----            | ------ |
-9:00-9:15       | [A new way to do computational research](Platform-overview.md) |
-9:15-9:30      | [Doing an analysis in the Cloud in 5 minutes](Create-capsule.md) |
-9:30-9:45 | [Github Integration](Github.md) |
-9:45-10:15 | [Manage data in Code Ocean](Data-management.md) |
-10:15-10:30 | Break |
-10:30-10:45 | [Collaborate in Code Ocean](sharing.md)        |
-10:45-11:15      | [Using Desktop Applications](desktop-apps.md) |
-11:15-12:00 | [Creating No-Code Apps](no-code-apps.md) |
+9:00-9:15       | [Kickoff: A new way to do computational research](Platform-overview.md) |
+9:15-9:20      | [Create a reproducible analysis in the Cloud in 5 minutes](Create-capsule.md) |
+9:20-10:30 | [Preprocessing and exploratory analysis of thalamus MERFISH data]()
+10:30-10:45 | Break
+10:45-11:45 | [Collaboration & Data Management](Data-management.md)
+10:45-11:00 | [Development lifecycle]()
+11:00-11:15 | [FAIR Data]()
+11:15-11:45 | [Reproducible no-code tools](no-code-apps.md)
+11:45-12:00 | Q & A
 
 
 
 Times            | Day 2 |
 -----            | ------ |
-1:00-1:45       | [Make extensive workflows](Pipelines.md) |
-1:45-2:00      | [Combined Data Assets](Combined-data.md) |
-2:00-2:45 | [Code Ocean API](API.md) |
-2:45-3:00 | Break |
-3:00-4:00 | [Upcoming features](Upcoming-features.md) |
+12:30 - 1:00 | Open Q&A 
+1:00 - 2:30 | [Code Ocean Pipelines: Large scale parallel processing](Pipelines.md)
+2:30 - 2:45 | Break
+2:45 - 3:15 | [Automating Workflows with the Code Ocean API](API.md)
+3:15 - 3:45 | [Sneak Peek: Upcoming Features in Code Ocean](Upcoming-features.md)
+3:45 - 4:00 | Final Q & A - Wrapping Up & Next Steps
 
 # On Site Facilitators
 
