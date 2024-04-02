@@ -1,4 +1,3 @@
-![png](images/hLogo-color.png)
 # Code Ocean training for AIBS
 
 Day 1 - Capsule training <br>
@@ -53,3 +52,6 @@ Times            | Day 2 |
 
   - Jake  Valsamis
   - Iain Buchanan
+
+<hr>
+![png](images/hLogo-color.png)

@@ -25,3 +25,7 @@ In Code Ocean, the unit used to create, organize, and share research projects is
 - View results of previous runs and the history of the Capsule in the Timeline.
 
 ![png](images/3_panes_of_capsule_UI.png)
+
+
+<hr>
+![png](images/hLogo-color.png)
