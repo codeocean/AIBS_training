@@ -26,13 +26,10 @@ Times            | Day 1 |
 -----            | ------ |
 9:00-9:15       | [Kickoff: A new way to do computational research](Platform-overview.md) |
 9:15-9:20      | [Create a reproducible analysis in the Cloud in 5 minutes](Create-capsule.md) |
-9:20-10:30 | [Preprocessing and exploratory analysis of thalamus MERFISH data]()
+9:20-10:30 | [Preprocessing and exploratory analysis of thalamus MERFISH data](AIBS-specific.md)
 10:30-10:45 | Break
 10:45-11:45 | [Collaboration & Data Management](Data-management.md)
-10:45-11:00 | [Development lifecycle]()
-11:00-11:15 | [FAIR Data]()
-11:15-11:45 | [Reproducible no-code tools](no-code-apps.md)
-11:45-12:00 | Q & A
+11:45-12:00 | Q&A
 
 
 
