@@ -1,3 +1,4 @@
+![png](images/hLogo-color.png)
 # Code Ocean training for AIBS
 
 Day 1 - Capsule training <br>
@@ -48,7 +49,7 @@ Times            | Day 2 |
 3:15 - 3:45 | [Sneak Peek: upcoming Features in Code Ocean](7Upcoming-features.md)
 3:45 - 4:00 | Wrapping Up & Next Steps
 
-# On Site Facilitators
+## On Site Facilitators
 
   - Jake  Valsamis
   - Iain Buchanan
