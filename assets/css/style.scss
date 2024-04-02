@@ -1,17 +1,10 @@
 ---
 ---
+$section-headings-color: #1B3CF2;
+
 
 @import "{{ site.theme }}";
 .page-header {
     color: #fff;
     background-image: linear-gradient(120deg, #1B3CF2, #1B3CF2);
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    color: #1B3CF2;
 }

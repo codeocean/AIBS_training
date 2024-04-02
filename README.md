@@ -25,11 +25,11 @@ Code Ocean's mission is to make computational research a connected community tha
 
 Times            | Day 1 |
 -----            | ------ |
-9:00-9:15       | [Kickoff: a new way to do computational research](Platform-overview.md) |
-9:15-9:20      | [Create a reproducible analysis in the Cloud in 5 minutes](Create-capsule.md) |
-9:20-10:30 | [Preprocessing and exploratory analysis of thalamus MERFISH data](AIBS-specific.md)
+9:00-9:15       | [Kickoff: a new way to do computational research](1Platform-overview.md) |
+9:15-9:20      | [Create a reproducible analysis in the Cloud in 5 minutes](2Create-capsule.md) |
+9:20-10:30 | [Preprocessing and exploratory analysis of thalamus MERFISH data](3AIBS-specific.md)
 10:30-10:45 | Break
-10:45-11:45 | [Collaboration & data management](Data-management.md)
+10:45-11:45 | [Collaboration & data management](4Data-management.md)
 11:45-12:00 | Q&A
 
 
@@ -43,10 +43,10 @@ Times            | Day 1 |
 Times            | Day 2 |
 -----            | ------ |
 12:30 - 1:00 | Open Q&A 
-1:00 - 2:30 | [Code Ocean Pipelines: large scale parallel processing](Pipelines.md)
+1:00 - 2:30 | [Code Ocean Pipelines: large scale parallel processing](5Pipelines.md)
 2:30 - 2:45 | Break
-2:45 - 3:15 | [Automating workflows with the Code Ocean API](API.md)
-3:15 - 3:45 | [Sneak Peek: upcoming Features in Code Ocean](Upcoming-features.md)
+2:45 - 3:15 | [Automating workflows with the Code Ocean API](6API.md)
+3:15 - 3:45 | [Sneak Peek: upcoming Features in Code Ocean](7Upcoming-features.md)
 3:45 - 4:00 | Wrapping Up & Next Steps
 
 # On Site Facilitators
