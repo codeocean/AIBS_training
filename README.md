@@ -3,12 +3,12 @@
 Day 1 - Capsule training <br>
 April 9, 2024 <br>
 9am-12pm PST <br>
-Location: <br>
 
 Day 2 - Advanced training <br>
 April 10, 2024 <br>
 1pm-4pm PST <br>
-Location: <br>
+
+Location: On-site in rooms CR_670 A and B<br>
 
 # Code Ocean
 Code Ocean's mission is to make computational research a connected community that together drives for faster, more collaborative, higher quality discoveries.
