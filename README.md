@@ -15,10 +15,8 @@ Location: On-site in rooms CR_670 A and B<br>
 Code Ocean's mission is to make computational research a connected community that together drives for faster, more collaborative, higher quality discoveries.
 
 
-
-
 # Schedule
-### Code Ocean fundamentals (all users) 
+## Day 1: Code Ocean fundamentals (all users) 
 #### Learning Objectives
 
 - Create a new analysis in Code Ocean or import from GitHub
@@ -35,7 +33,7 @@ Times            | Day 1 |
 11:45-12:00 | Q&A
 
 
-### Scaling and Automation (power-users)
+## Day 2: Scaling and Automation (power-users)
 #### Learning Objectives
 
 - Run complex workflows in parallel

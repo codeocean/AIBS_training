@@ -1,6 +1,7 @@
 ## A new way to do computational research
 
-Code Ocean provides a new way to do computational research that relies on tools you may be familiar with, all integrated into a single platform. 
+Code Ocean provides a new way to do computational research that is Reproducible, Collaborative, and 
+The Code Ocean platform relies on tools you may be familiar with, all integrated into a single platform. 
 
 [Introduction to Code Ocean slides]()
 
