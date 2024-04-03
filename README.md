@@ -28,8 +28,8 @@ Times            | Day 1 |
 9:15-9:20      | [Create a reproducible analysis in the Cloud in 5 minutes](2Create-capsule.md) |
 9:20-10:30 | [Preprocessing and exploratory analysis of thalamus MERFISH data](3AIBS-specific.md)
 10:30-10:45 | Break
-10:45-11:45 | [Collaboration & data management](4Data-management.md)
-11:45-12:00 | Q&A
+10:45-11:30 | [Collaboration & data management](4Data-management.md)
+11:30-12:00 | Internal cloud policy review
 
 
 ## Day 2: Scaling and Automation (power-users)
