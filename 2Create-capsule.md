@@ -13,7 +13,9 @@ The environment can be customized in several ways.  For now, we will start by in
 ![gif](images/matplotlib.gif)
 
 ## Code development 
-
+We will use sample files for this example, but you can easily add folders and files to Capsules in Code Ocean by right clicking in the File Navigation Panel. 
+![gif](images/sample-files.gif)
+ 
 ## Attaching data 
 
 ## The Reproducible Run 
