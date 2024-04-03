@@ -29,7 +29,7 @@ Times            | Day 1 |
 9:20-10:30 | [Preprocessing and exploratory analysis of thalamus MERFISH data](3AIBS-specific.md)
 10:30-10:45 | Break
 10:45-11:30 | [Collaboration & data management](4Data-management.md)
-11:30-12:00 | Internal cloud policy review
+11:30-12:00 | Internal cloud policy overview
 
 
 ## Day 2: Scaling and Automation (power-users)

@@ -2,7 +2,7 @@
 
 ## Create a new Capsule
 There are multiple ways to create a new Capsule: 
-We will Click __+ New Capsule__ in the top right corner, then __Create New__.
+Click on the plus sign (+) in the top right corner, then __Create New__.
 ![png](images/create-new.png)
 
 ## Configuring the environment
