@@ -45,7 +45,7 @@ Times            | Day 2 |
 1:00 - 2:30 | [Code Ocean Pipelines: large scale parallel processing](5Pipelines.md)
 2:30 - 2:45 | Break
 2:45 - 3:15 | [Automating workflows with the Code Ocean API](6API.md)
-3:15 - 3:45 | [Sneak Peek: upcoming Features in Code Ocean](7Upcoming-features.md)
+3:15 - 3:45 | [Sneak Peek: upcoming features in Code Ocean](7Upcoming-features.md)
 3:45 - 4:00 | Wrapping Up & Next Steps
 
 ## On Site Facilitators
