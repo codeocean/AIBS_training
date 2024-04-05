@@ -27,3 +27,6 @@
 ## Reproducible no-code tools
 - App panel
 - No- code apps (Streamlit, Shiny)
+
+
+[![Code Ocean Logo](images/hLogo-color.png)](http://codeocean.com/product)

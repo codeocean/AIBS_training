@@ -13,3 +13,7 @@
 - Find, Attach data, Custom metadata for controlled vocabulary 
 - Open CW (10 min)
 - RR (5+ min)
+
+
+
+[![Code Ocean Logo](images/hLogo-color.png)](http://codeocean.com/product)

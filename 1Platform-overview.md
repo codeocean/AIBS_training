@@ -6,11 +6,9 @@ Code Ocean provides a new way to do computational research that is Reproducible,
 
 ### Orientation to the platform
 
-- Log onto Code Ocean
-- You are brought to your My Capsule Dashboard. You can use the side navigation bar to go to other Code Ocean dashboards or return to the Capsule dashboard at any time. <br>
-![png](images/Navigation_toolbar.png)
+When you log onto Code Ocean, you are brought to your My Capsule Dashboard. You can use the side navigation bar to go to other Code Ocean dashboards or return to the Capsule dashboard at any time. <br>
 
-- In Code Ocean, the unit used to create, organize, and share research projects is a Capsule. The Capsule contains the code, environment, data, and results of a run. Once in a Capsule, there are 3 panes: the File Navigation/App Builder Panel, the Editor Panal, and the Reproducibility Panel. 
+In Code Ocean, the unit used to create, organize, and share research projects is a Capsule. The Capsule contains the code, environment, data, and results of a run. Once in a Capsule, there are 3 panes: the File Navigation/App Builder Panel, the Editor Panal, and the Reproducibility Panel. 
 
     1. File Navigation and App Builder (Left)
         - The file tree contains Metadata, Environment, Code, Data, Scratch, and Results folders.
@@ -28,4 +26,4 @@ Code Ocean provides a new way to do computational research that is Reproducible,
 
 
 <hr>
-![png](images/hLogo-color.png)
+[![Code Ocean Logo](images/hLogo-color.png)](http://codeocean.com/product)

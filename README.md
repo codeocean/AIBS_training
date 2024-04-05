@@ -54,4 +54,4 @@ Times            | Day 2 |
   - Iain Buchanan
 
 <hr>
-![png](images/hLogo-color.png)
+[![Code Ocean Logo](images/hLogo-color.png)](http://codeocean.com/product)

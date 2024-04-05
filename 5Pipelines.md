@@ -4,3 +4,6 @@ Pipelines allow users to separate steps of a workflow into reusable pieces, auto
 
 ## Create a new Pipeline
 Click on the plus sign (+) in the top right corner to create a new research product, then __Create New__.
+
+
+[![Code Ocean Logo](images/hLogo-color.png)](http://codeocean.com/product)
