@@ -4,7 +4,7 @@ The Code Ocean API enables users to interact with Code Ocean programmatically, w
 
 Once you have [set up an access token](https://docs.codeocean.com/user-guide/code-ocean-api/authentication) in your account, many functions can be performed through the API. Some examples we will talk about include 
 - creating and sharing [Data Assets](https://docs.codeocean.com/user-guide/code-ocean-api/data-asset)
-- running [Capsules](https://docs.codeocean.com/user-guide/code-ocean-api/capsule) and Pipelines
+- running [Capsules and Pipelines](https://docs.codeocean.com/user-guide/code-ocean-api/computation)
 - capturing and sharing results
 
 We also have a Python SDK. The [Code Ocean Python SDK](https://docs.codeocean.com/user-guide/code-ocean-api/python-sdk) makes it easy to leverage the full functionality of the extensive Code Ocean Public API in your Python scripts and applications.
